@@ -1,0 +1,13 @@
+.home_container {
+  width: 80%;
+  margin: auto;
+}
+
+.home_countries {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.home_countries ol li:hover {
+  color: turquoise;
+}
